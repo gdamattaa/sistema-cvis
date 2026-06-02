@@ -1,6 +1,9 @@
 # Sistema CVIS
+<p align="center">
+  <img src="imagens/icone.ico" width="200">
+</p>
 
-Aplicação desktop desenvolvida em Python e PySide6 para gerenciamento de escalas operacionais e controle de circulares.
+Aplicação desktop desenvolvida em Python e PySide6 para gerenciamento de escalas operacionais e controle de serviços e acompanhento de funcionários.
 
 ## Funcionalidades
 
@@ -25,16 +28,21 @@ Aplicação desktop desenvolvida em Python e PySide6 para gerenciamento de escal
 
 ![Imagem 2](imagens/sistemaCVIS2.jpg)
 
-## Logo
-
-![Logo](imagens/logo.png)
-
 ## Autor
 
 Gabriel da Matta
 
-## Versão
+## Status do Projeto
 
-Esta é a primeira versão, e foi descontinuada. As melhorias seguintes seriam:
-- Criação do banco de dados
-- atualização do sistema de adição de funcionários
+Versão 1.0
+
+Projeto desenvolvido para gerenciamento de escalas operacionais.
+
+O desenvolvimento foi encerrado após a primeira versão funcional.
+
+Possíveis melhorias futuras:
+
+- Integração com banco de dados
+- Sincronização em rede local ou Google Drive
+- Cadastro dinâmico de funcionários
+- Atualização em tempo real entre múltiplos computadores
