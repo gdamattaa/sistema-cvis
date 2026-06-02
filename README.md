@@ -1,6 +1,6 @@
 # Sistema CVIS
 <p align="center">
-  <img src="imagens/icone.ico" width="200">
+  <img src="imagens/icone.png" width="200">
 </p>
 
 Aplicação desktop desenvolvida em Python e PySide6 para gerenciamento de escalas operacionais e controle de serviços e acompanhento de funcionários.
